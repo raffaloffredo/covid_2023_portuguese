@@ -22,7 +22,7 @@ _(disponíveis apenas em inglês)_
 * Clique [aqui](https://www.youtube.com/watch?v=6DQCzydiCQ8) para ver o gráfico animado que foi gerado nesse estudo
 * Infográfico
 <p align="center">
-  <img src="covid19_infographic.png" height=550px>
+  <img src="covid19_infographic.png" width="100%">
 </p>
 <br/>
 
