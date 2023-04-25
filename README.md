@@ -20,6 +20,10 @@ Esse é um estudo completo que teve por objetivo analisar os dados sobre COVID-1
 _(disponíveis apenas em inglês)_
 
 * Clique [aqui](https://www.youtube.com/watch?v=6DQCzydiCQ8) para ver o gráfico animado que foi gerado nesse estudo
+<p align="center">
+  <img src="covid_gif.gif" width="80%">
+</p>
+<br/>
 * Infográfico
 <p align="center">
   <img src="covid19_infographic.png" width="100%">
