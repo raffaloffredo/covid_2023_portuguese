@@ -13,7 +13,7 @@ Esse é um estudo completo que teve por objetivo analisar os dados sobre COVID-1
 
 * **[Código](https://github.com/raffaloffredo/covid_2023_portuguese/blob/main/%5BLoffredo_DS%5D_Panorama_do_COVID_19_no_Brasil_e_no_mundo.ipynb)**
 * **[Artigo Completo](https://medium.com/@loffredo.ds/ciência-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
-* **[Artigo Resumido (Resultados)](https://medium.com/@loffredo.ds/ciência-de-dados-aplicada-estudo-sobre-o-covid-19-no-brasil-e-no-mundo-e4a8996a75ab)**
+* **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/estudo-atualizado-do-covid-19-brasil-e-nomundo-raffaela-loffredo)**
 <br/>
 
 ## Material Extra
