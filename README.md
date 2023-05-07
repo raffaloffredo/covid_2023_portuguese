@@ -32,7 +32,7 @@ _(disponíveis apenas em inglês)_
 
 ## Outros projetos
 
-Análise Explaratória de Dados
+Análise Exploratória de Dados
 * **[Airbnb New York](https://github.com/raffaloffredo/airbnb_new_york_portuguese)**
 <br/>
 
